@@ -1,7 +1,7 @@
 # puller
 Laser design files for a touch avoidance tool to help with hygienic opening and closing of doors etc. 
 
-![GUI Example](https://github.com/simonmonk/puller/blob/master/docs/clear_acrylic.jpg)
+![Puller](https://github.com/simonmonk/puller/blob/master/docs/clear_acrylic.jpg)
 
 This multipurpose tool is a response to the need for hygenic social distancing during the Covid-19 pandemic. It allows you to open and close doors, unlatch gates and press buttons without having to touch anything that may have surface contamination of droplets containing the virus.
 
@@ -12,6 +12,8 @@ If you cut it from acrylic, then you can wash it at the start of your hand-washi
 I find it useful for dealing with latched gates when exercising the dog, but it may also be useful for delivery personel for pressing doorbells, opening gates etc. as an alternative or addition to gloves.
 
 Here are a few videos showing the tool in action.
+
+[![Cupboard](https://github.com/simonmonk/puller/blob/master/docs/cupboard.png)](https://www.youtube.com/watch?v=hncOEoXZ4V8 "Opening a cupboard")
 
 # Cutting
 
