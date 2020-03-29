@@ -1,11 +1,12 @@
 # puller
 Laser design files for a touch avoidance tool to help with hygienic opening and closing of doors etc. 
 
-![Puller](https://github.com/simonmonk/puller/blob/master/docs/door.png)
+[![Door](https://github.com/simonmonk/puller/blob/master/docs/door.png)](https://www.youtube.com/watch?v=OmUCKdHnk60 "Opening a door")
 
 This multipurpose tool is a response to the need for hygenic social distancing during the Covid-19 pandemic. It allows you to open and close doors, unlatch gates and press buttons without having to touch anything that may have surface contamination of droplets containing the virus.
 
 If you cut it from acrylic, then you can wash it at the start of your hand-washing regime.
+
 
 # How to Use
 
@@ -14,8 +15,6 @@ I find it useful for dealing with latched gates when exercising the dog, but it 
 Here are a few videos showing the tool in action. Click on them to watch in YouTube.
 
 [![Gate](https://github.com/simonmonk/puller/blob/master/docs/gate.png)](https://www.youtube.com/watch?v=_2MRC2oySqY "Opening a gate")
-
-[![Door](https://github.com/simonmonk/puller/blob/master/docs/door.png)](https://www.youtube.com/watch?v=OmUCKdHnk60 "Opening a door")
 
 [![Light Switch](https://github.com/simonmonk/puller/blob/master/docs/lightswitch.png)](https://www.youtube.com/watch?v=xDS5TNEbmXw "Light Switch")
 
@@ -30,7 +29,7 @@ I cut the tool using 3mm acrylic which is strong enough, but 4mm or more would b
 
 Its quick to cut and only needs material of 160 x 120 mm
 
-My K40 laser cutter is controlled using the excellent k40 Whisperer https://www.scorchworks.com/K40whisperer/k40whisperer.html. This requires files for cutting to be in SVG format with the lines to be vector cut to be in red.
+My K40 laser cutter is controlled using the excellent k40 Whisperer https://www.scorchworks.com/K40whisperer/k40whisperer.html software. This requires files for cutting to be in SVG format with the lines to be vector cut to be in red.
 
 + For a single piece, use the file: puller_single.svg
 + For an A4 sheet in portrait with 3 pullers use: puller_3up_a4_portrait.svg
@@ -38,15 +37,18 @@ My K40 laser cutter is controlled using the excellent k40 Whisperer https://www.
 
 # Contributing
 
-+ Feedback - of course
-+ conversion of the design files to other formats for other software
-+ creation of n-up duplications of the design for more efficient use of material.
+I would very much welcome:
+
++ Feedback and suggestions for improvements
++ Conversion of the design files to other formats for other software
++ Creation of n-up duplications of the design for more efficient use of material.
 
 
-# Willing to cut and send?
+If you can cut these and would like to help, please let me (Simon Monk) know and I'll add you to the list below. Note that although most countries postal services are slow enough for any virus to die, please wash with soap or leave for a few days before using.
 
-If so, please let me (Simon Monk) know and I'll add you to the list below.
 
-If you'd like one of these, please contact someone in the list below.
+# I want one
+
+If you'd like one of these and can't cut it yourself, please contact someone in the list below.
 
 + Simon Monk (srmonk@gmail.com), send to UK, one or two for free, bigger batches at cost.
