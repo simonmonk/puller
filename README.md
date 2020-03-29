@@ -11,9 +11,18 @@ If you cut it from acrylic, then you can wash it at the start of your hand-washi
 
 I find it useful for dealing with latched gates when exercising the dog, but it may also be useful for delivery personel for pressing doorbells, opening gates etc. as an alternative or addition to gloves.
 
-Here are a few videos showing the tool in action.
+Here are a few videos showing the tool in action. Click on them to watch in YouTube.
+
+[![Gate](https://github.com/simonmonk/puller/blob/master/docs/gate.png)](https://www.youtube.com/watch?v=_2MRC2oySqY "Opening a gate")
+
+[![Light Switch](https://github.com/simonmonk/puller/blob/master/docs/lightswitch.png)](https://www.youtube.com/watch?v=xDS5TNEbmXw "Light Switch")
+
+[![Doorbell](https://github.com/simonmonk/puller/blob/master/docs/doorbell.png)](https://www.youtube.com/watch?v=mgLrzY4vOy0 "Pressing a doorbell")
+
+[![Door](https://github.com/simonmonk/puller/blob/master/docs/door.png)](https://www.youtube.com/watch?v=OmUCKdHnk60 "Opening a door")
 
 [![Cupboard](https://github.com/simonmonk/puller/blob/master/docs/cupboard.png)](https://www.youtube.com/watch?v=hncOEoXZ4V8 "Opening a cupboard")
+
 
 # Cutting
 
