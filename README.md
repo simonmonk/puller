@@ -1,7 +1,7 @@
 # puller
 Laser design files for a touch avoidance tool to help with hygienic opening and closing of doors etc. 
 
-![Puller](https://github.com/simonmonk/puller/blob/master/docs/clear_acrylic.jpg)
+![Puller](https://github.com/simonmonk/puller/blob/master/docs/door.png)
 
 This multipurpose tool is a response to the need for hygenic social distancing during the Covid-19 pandemic. It allows you to open and close doors, unlatch gates and press buttons without having to touch anything that may have surface contamination of droplets containing the virus.
 
@@ -15,11 +15,11 @@ Here are a few videos showing the tool in action. Click on them to watch in YouT
 
 [![Gate](https://github.com/simonmonk/puller/blob/master/docs/gate.png)](https://www.youtube.com/watch?v=_2MRC2oySqY "Opening a gate")
 
+[![Door](https://github.com/simonmonk/puller/blob/master/docs/door.png)](https://www.youtube.com/watch?v=OmUCKdHnk60 "Opening a door")
+
 [![Light Switch](https://github.com/simonmonk/puller/blob/master/docs/lightswitch.png)](https://www.youtube.com/watch?v=xDS5TNEbmXw "Light Switch")
 
 [![Doorbell](https://github.com/simonmonk/puller/blob/master/docs/doorbell.png)](https://www.youtube.com/watch?v=mgLrzY4vOy0 "Pressing a doorbell")
-
-[![Door](https://github.com/simonmonk/puller/blob/master/docs/door.png)](https://www.youtube.com/watch?v=OmUCKdHnk60 "Opening a door")
 
 [![Cupboard](https://github.com/simonmonk/puller/blob/master/docs/cupboard.png)](https://www.youtube.com/watch?v=hncOEoXZ4V8 "Opening a cupboard")
 
@@ -41,3 +41,12 @@ My K40 laser cutter is controlled using the excellent k40 Whisperer https://www.
 + Feedback - of course
 + conversion of the design files to other formats for other software
 + creation of n-up duplications of the design for more efficient use of material.
+
+
+# Willing to cut and send?
+
+If so, please let me (Simon Monk) know and I'll add you to the list below.
+
+If you'd like one of these, please contact someone in the list below.
+
++ Simon Monk (srmonk@gmail.com), send to UK, one or two for free, bigger batches at cost.
