@@ -1,7 +1,7 @@
 # puller
-Laser design files for an anti-touching tool to help with hygienic opening and closing of doors etc. 
+Laser design files for a touch avoidance tool to help with hygienic opening and closing of doors etc. 
 
-![GUI Example](http://)
+![GUI Example](https://github.com/simonmonk/puller/blob/master/docs/clear_acrylic.jpg)
 
 This multipurpose tool is a response to the need for hygenic social distancing during the Covid-19 pandemic. It allows you to open and close doors, unlatch gates and press buttons without having to touch anything that may have surface contamination of droplets containing the virus.
 
