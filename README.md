@@ -25,7 +25,7 @@ Here are a few videos showing the tool in action. Click on them to watch in YouT
 
 # Cutting
 
-I cut the tool using 3mm acrylic which is strong enough, but 4mm or more would be better. I also cut a plywood version, which provided better grip, but I amagine would be much harder to sterilize.
+I cut the tool using 3mm acrylic which is strong enough, but 4mm or more would be better. I also cut a plywood version, which provided better grip, but I think would be much harder to sterilize.
 
 Its quick to cut and only needs material of 160 x 120 mm
 
@@ -49,6 +49,6 @@ If you can cut these and would like to help, please let me (Simon Monk) know and
 
 # I want one
 
-If you'd like one of these and can't cut it yourself, please contact someone in the list below.
+If you'd like one of these and can't cut it yourself, please contact someone in the list below. I have a limited stock of acrylic, but I can make and send if you think it would help you.
 
 + Simon Monk (srmonk@gmail.com), send to UK, one or two for free, bigger batches at cost.
